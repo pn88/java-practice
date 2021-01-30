@@ -1,3 +1,5 @@
+package basics;
+
 public class NumberPalindrome {
     public static boolean isPalindrome(int number) {
         int reverse = 0;

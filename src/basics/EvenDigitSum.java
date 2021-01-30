@@ -1,3 +1,5 @@
+package basics;
+
 public class EvenDigitSum {
     public static int getEvenDigitSum(int number) {
         for(int sum = 0;number >= 0;number /= 10){

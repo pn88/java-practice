@@ -1,3 +1,5 @@
+package basics;
+
 public class SpeedConverter {
 
     public long toMilesPerHour(double kilometersPerHour) {

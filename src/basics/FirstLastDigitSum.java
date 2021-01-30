@@ -1,3 +1,5 @@
+package basics;
+
 public class FirstLastDigitSum {
     public static int sumFirstAndLastDigit(int number) {
         if (number < 0) {

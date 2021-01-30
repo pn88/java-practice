@@ -1,4 +1,6 @@
-    public class MegaBytesConverter {
+package basics;
+
+public class MegaBytesConverter {
 
         public static void printMegaBytesAndKiloBytes(int kiloBytes){
             // 1 MB = 1024kb
