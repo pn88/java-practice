@@ -1,4 +1,4 @@
-package com.pinodev.animal;
+package com.pinodev.oop.animal;
 
 public class Fish extends Animal{
     private int gills;

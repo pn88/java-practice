@@ -1,4 +1,4 @@
-package com.pinodev.animal;
+package com.pinodev.oop.animal;
 
 public class Dog extends Animal {
 
