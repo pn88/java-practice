@@ -1,4 +1,4 @@
-package basics;
+package com.pinodev.basics;
 
 public class SharedDigit {
     public static boolean hasSharedDigit(int x, int y) {

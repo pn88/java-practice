@@ -1,4 +1,4 @@
-package basics;
+package com.pinodev.basics;
 
 public class LargestPrime {
     public static int getLargestPrime(int number) {

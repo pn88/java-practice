@@ -1,4 +1,4 @@
-package basics;
+package com.pinodev.basics;
 
 public class MinutesToYearsDaysCalculator {
     public static void printYearsAndDays(long minutes){
