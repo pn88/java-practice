@@ -1,4 +1,4 @@
-package com.pinodev.composition;
+package com.pinodev.oop.composition;
 
 public class Resolution {
     private int width;

@@ -1,4 +1,4 @@
-package com.pinodev.composition;
+package com.pinodev.oop.composition;
 
 public class PC {
     private Case theCase;
